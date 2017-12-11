@@ -66,6 +66,18 @@ sub _getsuffixes {
 
 Mojolicious::Command::bulkget - Perform bulk get requests
 
+=begin markdown
+
+# PROJECT STATUS
+
+| OS      |  Build status |
+|:-------:|--------------:|
+| Linux   | [![Build Status](https://travis-ci.org/mohawk2/Mojolicious-Command-bulkget.svg?branch=master)](https://travis-ci.org/mohawk2/Mojolicious-Command-bulkget) |
+
+[![CPAN version](https://badge.fury.io/pl/Mojolicious-Command-bulkget.svg)](https://metacpan.org/pod/Mojolicious::Command::bulkget)
+
+=end markdown
+
 =head1 SYNOPSIS
 
   Usage: APPLICATION bulkget urlbase outdir suffixesfile
