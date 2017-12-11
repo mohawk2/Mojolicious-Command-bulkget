@@ -29,11 +29,11 @@ WriteMakefile(
       x_IRC => 'irc://irc.perl.org/#graphql-perl',
       repository => {
         type => 'git',
-        url => 'git@github.com:graphql-perl/Mojolicious-Command-bulkget.git',
-        web => 'https://github.com/graphql-perl/Mojolicious-Command-bulkget',
+        url => 'git@github.com:mohawk2/Mojolicious-Command-bulkget.git',
+        web => 'https://github.com/mohawk2/Mojolicious-Command-bulkget',
       },
       bugtracker  => {
-        web => 'https://github.com/graphql-perl/Mojolicious-Command-bulkget/issues',
+        web => 'https://github.com/mohawk2/Mojolicious-Command-bulkget/issues',
       },
       license => [ 'http://dev.perl.org/licenses/' ],
     },
