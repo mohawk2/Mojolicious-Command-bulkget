@@ -16,10 +16,10 @@ WriteMakefile(
     "ExtUtils::MakeMaker" => '6.63_03',
   },
   "PREREQ_PM" => {
-    "Mojolicious" => '7.48', # promises
+    "Mojolicious" => '7.53', # promises
   },
   "TEST_REQUIRES" => {
-    "Mojolicious" => '7.48', # promises
+    "Mojolicious" => '7.53', # promises
     "Test::More" => "0.92",
   },
   META_MERGE => {
